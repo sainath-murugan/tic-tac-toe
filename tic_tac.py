@@ -1,6 +1,6 @@
 print("// play tic tac toe///")
-name_of_player_1 = input("enter the name of player one\n")
-name_of_player_2 = input("enter the name of player two\n")
+name_of_player_1 = input("enter the name of player one\n")  #player one
+name_of_player_2 = input("enter the name of player two\n")  #player two
 b = ['-', '-', '-',
      '-', '-', '-',
      '-', '-', '-']
